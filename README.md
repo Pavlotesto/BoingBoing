@@ -1,5 +1,4 @@
 # BoingBoing
-SMX2M8UF1A3_Historia de la web Boing Boing
 
 [Bonig Boing](https://boingboing.net/ "Bonig Boing"), es un blog y sitio web muy popular, su historia comenzó en 1988 cuando [Mark Frauenfelder](https://en.wikipedia.org/wiki/Mark_Frauenfelder "Mark Frauenfelder") y [Carla Sinclair](https://en.wikipedia.org/wiki/Carla_Sinclair/ "Carla Sinclair") fundaron una revista impresa llamada "Boing Boing: The Directory of Wonderful Things". Las primeras publicaciones se centraron especialmente en la tecnologia, la cultura hacker y la contracultura. Y tuvieron mucho éxito pocos meses más tarde de su lanzamiento.
 
