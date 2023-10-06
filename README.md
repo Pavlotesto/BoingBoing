@@ -8,3 +8,5 @@ Con el tiempo, Boing Boing evolucionó y se convirtió en un sitio web en 1995, 
 Boing Boing también se destacó por su enfoque en la cultura de código abierto, los derechos digitales y la libertad en línea. Fue una voz influyente en la defensa de la privacidad y la lucha contra la censura en internet.
 
 En resumen, Boing Boing es una plataforma que ha pasado de ser una revista de contracultura a un influyente blog en línea que aborda una amplia gama de temas. A lo largo de los años, ha mantenido su espíritu de exploración y su compromiso con la innovación y la libertad en línea.
+
+![Alt text](image.png)
