@@ -9,4 +9,4 @@ Boing Boing también se destacó por su enfoque en la cultura de código abierto
 
 En resumen, Boing Boing es una plataforma que ha pasado de ser una revista de contracultura a un influyente blog en línea que aborda una amplia gama de temas. A lo largo de los años, ha mantenido su espíritu de exploración y su compromiso con la innovación y la libertad en línea.
 
-![Alt text](image.png)
+<img src="https://github.com/Pavlotesto/BoingBoing/blob/main/image.png" alt="Logo" width="300" height="200" />
